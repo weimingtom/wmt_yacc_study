@@ -1,4 +1,4 @@
-# wmt_yacc_study
+﻿# wmt_yacc_study
 My YACC / interpreter study
 
 ## Refs
@@ -14,6 +14,19 @@ My YACC / interpreter study
 By: John Levine  
 http://shop.oreilly.com/product/9780596155988.do  
 ftp://ftp.iecc.com/pub/file/flexbison.zip  
-* ������ץȥ��󥸥� �ץ�����ߥ�  
-�౾��ǧ�� ��   
+* スクリプトエンジン プログラミング  
+坂本　千尋 著   
 http://www.sbcr.jp/products/4797347623.html  
+* chiba  
+スクリプト言語の作り方  
+A new scripting language in two weeks  
+两周自制编程语言  
+http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/site/?ScriptingBook  
+https://github.com/chibash/stone  
+* crowbar & diksam    
+自制编程语言  
+http://avnpc.com/pages/devlang  
+* loucomp  
+Compiler Construction - Principles and Practice, by Kenneth C. Louden,  
+编译原理及实践  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/book.md  
