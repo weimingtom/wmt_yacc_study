@@ -1,0 +1,48 @@
+﻿用fdb统计每个方法的命中次数
+
+博客分类： 已过时文章（留念用）
+Flex SDK自带一个命令行的调试工具叫fdb，
+可以用info functions列出所有函数，添加断点
+然后在每个断点后面使用commands跳过断点的停顿。
+fdb会自动统计命中的次数，例如：
+ 
+ 
+b #15:19
+commands
+silent
+cont
+end
+b #15:29
+commands
+silent
+cont
+end
+ 运行到某个没有cont的断点时停下时，
+用i b可以看到所有断点的命中次数，例如：
+ 
+ 
+(fdb) i b
+Num Type Disp Enb Address What
+1 breakpoint keep y 0x0000a197 在处于以下位置的 BitmapAssetMaterial() 中
+BitmapAssetMaterial.as:19
+断点已命中 2 次
+静默
+cont
+ 只是不太方便的是
+1. 不能一次性在所有方法上添加断点和commands，除非用脚本生成fdb调试脚本。
+2. 无法自动化获取所有方法，只能手动用info functions查询。
+3. 如果命中频繁，播放器会非常卡。
+4. 需要保留一个断点不执行cont，否则需要手动杀死播放器
+5. silent不能彻底关闭输出，需要修改fdb（flex-debugger）的代码，把
+DebugCLI中的dumpHaltState方法的dumpBreakLine注释掉，
+否则还是会产生大量输出
+ 
+ 
+Java代码  收藏代码
+if (silent)  
+{  
+    // silent means we only spit out our current location  
+    //dumpBreakLine(postStep, sb);  
+}  
+ 简单来说，这样统计命中次数是可行的，只不过不太适合实际的调试。
+（播放器会被完全卡死，一次EnterFrame需要1分钟左右）
