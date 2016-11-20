@@ -26,6 +26,14 @@ https://github.com/chibash/stone
 * crowbar & diksam    
 自制编程语言  
 http://avnpc.com/pages/devlang  
+http://kmaebashi.com/programmer/devlang/  
+https://github.com/arikui1911/Godiksam  
+https://github.com/xumingming/crowbar  
+https://github.com/Lamod/crowbar  
+https://github.com/dolphilia/crowbar-xcode  
+https://github.com/yanggeorge/crowbar_book  
+https://github.com/insomniacdoll/crowbar-ex  
+https://github.com/Wonicon/crowbar-learn  
 * loucomp  
 Compiler Construction - Principles and Practice, by Kenneth C. Louden,  
 编译原理及实践  
