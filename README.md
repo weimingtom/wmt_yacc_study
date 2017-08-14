@@ -47,8 +47,8 @@ Compiler Construction - Principles and Practice, by Kenneth C. Louden,
 * ANTLR 4权威指南  
 The Definitive ANTLR 4 Reference  
 
-* sly  
-https://github.com/dabeaz/sly  
+* sly  
+https://github.com/dabeaz/sly  
 
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
