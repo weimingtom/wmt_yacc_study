@@ -41,6 +41,8 @@ https://github.com/Wonicon/crowbar-learn
 * loucomp  
 Compiler Construction - Principles and Practice, by Kenneth C. Louden,  
 编译原理及实践  
+search baidupan, loucomp.zip  
+TINY language  
 
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/book.md  
 
@@ -49,6 +51,11 @@ The Definitive ANTLR 4 Reference
 
 * sly  
 https://github.com/dabeaz/sly  
+
+* Modern Compiler Implementation in Java, Second Edition - The MiniJava Project  
+search baidupan, MCIIJ2E.7z, minijava  
+Modern Compiler Implementation in Java, Second Edition - The MiniJava Project  
+https://www.cambridge.org/us/features/052182060X/#progs  
 
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
