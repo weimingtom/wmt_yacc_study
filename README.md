@@ -56,6 +56,7 @@ https://github.com/dabeaz/sly
 Modern Compiler Implementation in Java, Second Edition - The MiniJava Project  
 search baidupan, MCIIJ2E.7z, minijava  
 https://www.cambridge.org/us/features/052182060X/#progs  
+现代编译器的Java实现（第二版）  
 
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
