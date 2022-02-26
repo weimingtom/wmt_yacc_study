@@ -52,9 +52,9 @@ The Definitive ANTLR 4 Reference
 * sly  
 https://github.com/dabeaz/sly  
 
-* Modern Compiler Implementation in Java, Second Edition - The MiniJava Project  
-search baidupan, MCIIJ2E.7z, minijava  
+* Mini-Java, MiniJava  
 Modern Compiler Implementation in Java, Second Edition - The MiniJava Project  
+search baidupan, MCIIJ2E.7z, minijava  
 https://www.cambridge.org/us/features/052182060X/#progs  
 
 ## Debugger  
