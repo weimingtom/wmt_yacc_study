@@ -42,7 +42,7 @@ https://github.com/Wonicon/crowbar-learn
 Compiler Construction - Principles and Practice, by Kenneth C. Louden,  
 编译原理及实践  
 search baidupan, loucomp.zip  
-TINY language  
+TINY language (Pascal like)    
 
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/book.md  
 
