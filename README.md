@@ -58,6 +58,13 @@ search baidupan, MCIIJ2E.7z, minijava
 https://www.cambridge.org/us/features/052182060X/#progs  
 现代编译器的Java实现（第二版）  
 
+* Virtual Machine Design and Implementation in C / C++  
+虚拟机的设计与实现 C/C++     
+search baidupan, 虚拟机设计实现HEC.rar  
+(NOTE: not this) https://github.com/gregors/hec/blob/master/test/LBI.hec  
+Virtual Machine Design and Implementation in C-C++  
+https://github.com/alecnunn/bookresources/tree/master/ComputerScience/Virtual%20Machine%20Design%20and%20Implementation%20in%20C-C++/linux  
+
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
 * https://github.com/lancejpollard/flex  
