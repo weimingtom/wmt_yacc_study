@@ -45,6 +45,7 @@ Compiler Construction - Principles and Practice, by Kenneth C. Louden,
 search baidupan, loucomp.zip  
 TINY language (Pascal like)    
 search baidupan, 《编译原理及实践》源码.rar  
+see below, 编译原理与实践  
 
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/book.md  
 
@@ -140,7 +141,7 @@ http://sourceforge.net/projects/gnuwin32/files/flex/
 * javacc  
 https://javacc.dev.java.net/  
 
-* ?  
+* 编译原理与实践  
 http://www.cs.sjsu.edu/faculty/louden/cmptext/  
 http://www.cppblog.com/Plator/archive/2008/04/10/46767.html  
 
