@@ -149,7 +149,7 @@ http://www.cppblog.com/Plator/archive/2008/04/10/46767.html
 * C Interfaces and Implementations: Techniques for Creating Reusable Software (Addison-Wesley Professional Computing Series)  
 search baidupan, cii20.zip  
 http://code.google.com/p/cii/downloads/detail?name=cii20.zip&can=2&q=  
-《C语言接口与实现:创建可重用软件的技术》 
+《C语言接口与实现:创建可重用软件的技术》   
 search, C Interfaces and Implementations  
 
 ## Debugger  
