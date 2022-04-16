@@ -43,6 +43,7 @@ Compiler Construction - Principles and Practice, by Kenneth C. Louden,
 编译原理及实践  
 search baidupan, loucomp.zip  
 TINY language (Pascal like)    
+search baidupan, 《编译原理及实践》源码.rar  
 
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/book.md  
 
@@ -68,6 +69,21 @@ https://github.com/alecnunn/bookresources/tree/master/ComputerScience/Virtual%20
 * Implementing A Scripting Engine - Part 8 - Executable Code  
 http://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_8_Executable_Code.shtml  
 search baidupan, tut8.zip  
+
+* search baidupan, bisontest_vc2008.rar  
+编译扫描器的源文件。  
+-8：生成8位扫描器。  
+-o：指定输出源文件的文件名。  
+flex -8 -ocalc-scanner.cpp calc-scanner.l  
+flex相关网站：  
+http://dinosaur.compilertools.net/  
+http://dinosaur.compilertools.net/flex/index.html  
+flex 2.5.4 (mingw)  
+http://sourceforge.net/projects/gnuwin32/files/flex/  
+flex 2.5.35 (cygwin)  
+http://www.postgresql.org/ftp/misc/winflex/  
+flex & bison  
+ftp://ftp.iecc.com/pub/file/  
 
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
