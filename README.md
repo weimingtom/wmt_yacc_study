@@ -81,9 +81,9 @@ http://dinosaur.compilertools.net/flex/index.html
 flex 2.5.4 (mingw)  
 http://sourceforge.net/projects/gnuwin32/files/flex/  
 flex 2.5.35 (cygwin)  
-http://www.postgresql.org/ftp/misc/winflex/  
+（dead) http://www.postgresql.org/ftp/misc/winflex/  
 flex & bison  
-ftp://ftp.iecc.com/pub/file/  
+(?) ftp://ftp.iecc.com/pub/file/  
 
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
