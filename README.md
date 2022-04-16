@@ -14,6 +14,7 @@ My YACC / interpreter study
 By: John Levine  
 http://shop.oreilly.com/product/9780596155988.do  
 ftp://ftp.iecc.com/pub/file/flexbison.zip  
+search baidupan, flexbison.zip  
 
 * スクリプトエンジン プログラミング  
 坂本　千尋 著   
@@ -84,6 +85,15 @@ flex 2.5.35 (cygwin)
 （dead) http://www.postgresql.org/ftp/misc/winflex/  
 flex & bison  
 (?) ftp://ftp.iecc.com/pub/file/  
+
+* Yacc 与 Lex 快速入门  
+(dead) http://www.ibm.com/developerworks/cn/linux/sdk/lex/index.html  
+search baidupan, ibm.txt  
+
+* Cコンパイラ設計(yacc・lexの応用)/ソース・リスト, **but removed now**      
+(something about antlr) http://www.pwv.co.jp/~take/TakeWiki/index.php?FrontPage  
+(removed) http://www.pwv.co.jp/~take/TakeWiki/index.php?C%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E8%A8%AD%E8%A8%88%28yacc%E3%83%BBlex%E3%81%AE%E5%BF%9C%E7%94%A8%29%2F%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AA%E3%82%B9%E3%83%88  
+search baidupan, sampleC.7z  
 
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
