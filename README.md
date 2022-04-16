@@ -65,6 +65,10 @@ search baidupan, 虚拟机设计实现HEC.rar
 Virtual Machine Design and Implementation in C-C++  
 https://github.com/alecnunn/bookresources/tree/master/ComputerScience/Virtual%20Machine%20Design%20and%20Implementation%20in%20C-C++/linux  
 
+* Implementing A Scripting Engine - Part 8 - Executable Code  
+http://www.flipcode.com/archives/Implementing_A_Scripting_Engine-Part_8_Executable_Code.shtml  
+search baidupan, tut8.zip  
+
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
 * https://github.com/lancejpollard/flex  
