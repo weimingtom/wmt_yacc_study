@@ -95,6 +95,55 @@ search baidupan, ibm.txt
 (removed) http://www.pwv.co.jp/~take/TakeWiki/index.php?C%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E8%A8%AD%E8%A8%88%28yacc%E3%83%BBlex%E3%81%AE%E5%BF%9C%E7%94%A8%29%2F%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AA%E3%82%B9%E3%83%88  
 search baidupan, sampleC.7z  
 
+* boost Spirit  
+https://www.boost.org/doc/libs/1_67_0/libs/spirit/doc/html/index.html  
+search baidupan, spirit2_4.pdf  
+
+* 小型常规语言编译器, antlr  
+search baidupan, version0.1.rar  
+
+* Berkeley Yacc (byacc)  
+http://invisible-island.net/byacc/byacc.html  
+
+* The Lex & Yacc Page  
+http://dinosaur.compilertools.net/  
+
+* JFlex - The Fast Scanner Generator for Java  
+http://jflex.de/  
+
+* JLex: A Lexical Analyzer Generator for Java(TM)  
+http://www.cs.princeton.edu/~appel/modern/java/JLex/  
+
+* GnuWin Packages  
+http://gnuwin32.sourceforge.net/packages.html  
+
+* ?  
+http://www.google.com.hk/search?hl=zh-CN&safe=strict&biw=1024&bih=598&q=yacc+flex&aq=f&aqi=&aql=&oq=&gs_rfai=  
+
+* The LEMON Parser Generator  
+http://www.hwaci.com/sw/lemon/  
+
+* ANTLR  
+http://www.antlr.org/  
+
+* Bison  
+http://www.gnu.org/software/bison/  
+http://sourceforge.net/projects/gnuwin32/files/bison/  
+http://sourceforge.net/projects/gnuwin32/files/libintl/  
+http://sourceforge.net/projects/gnuwin32/files/libiconv/  
+http://sourceforge.net/projects/gnuwin32/files/regex/  
+
+* flex: The Fast Lexical Analyzer  
+http://flex.sourceforge.net  
+http://sourceforge.net/projects/gnuwin32/files/flex/  
+
+* javacc  
+https://javacc.dev.java.net/  
+
+* ?  
+http://www.cs.sjsu.edu/faculty/louden/cmptext/  
+http://www.cppblog.com/Plator/archive/2008/04/10/46767.html  
+
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
 * https://github.com/lancejpollard/flex  
