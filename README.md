@@ -111,6 +111,7 @@ http://dinosaur.compilertools.net/
 
 * JFlex - The Fast Scanner Generator for Java  
 http://jflex.de/  
+https://github.com/jflex-de/jflex  
 
 * JLex: A Lexical Analyzer Generator for Java(TM)  
 http://www.cs.princeton.edu/~appel/modern/java/JLex/  
