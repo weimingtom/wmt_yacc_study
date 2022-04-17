@@ -159,6 +159,13 @@ activscp.h (from activex???)
 * 游戏脚本高级编程  
 (IMP) XtremeScript, XVM, XSC, XASM  
 lua-4.0.1, Simkin, SimkinCpp213.zip, SimkinJava121.zip   
+https://sourceforge.net/projects/simkin/  
+https://github.com/RealityFactory/Simkin/tree/master/cpp  
+
+* 人工智能游戏编程真言  
+10 Scripting  
+a very simple compiler called SCC  
+scc vm, with yacc  
 
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
