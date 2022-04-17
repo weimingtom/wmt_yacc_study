@@ -170,6 +170,8 @@ scc vm, with yacc
 * cfront  
 https://github.com/setekhid/cfront1  
 
+* 《数据结构与程序设计C语言描述》英文版，第12章《Case Study：The Polish Notation》  
+
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
 * https://github.com/lancejpollard/flex  
