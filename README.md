@@ -152,6 +152,14 @@ http://code.google.com/p/cii/downloads/detail?name=cii20.zip&can=2&q=
 《C语言接口与实现:创建可重用软件的技术》   
 search, C Interfaces and Implementations  
 
+* 脚本驱动的应用软件开发方法与实践  
+msxml.dll  
+activscp.h (from activex???)   
+
+* 游戏脚本高级编程  
+(IMP) XtremeScript, XVM, XSC, XASM  
+lua-4.0.1, Simkin, SimkinCpp213.zip, SimkinJava121.zip   
+
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
 * https://github.com/lancejpollard/flex  
