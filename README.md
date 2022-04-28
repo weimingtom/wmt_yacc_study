@@ -38,6 +38,8 @@ https://github.com/dolphilia/crowbar-xcode
 https://github.com/yanggeorge/crowbar_book  
 https://github.com/insomniacdoll/crowbar-ex  
 https://github.com/Wonicon/crowbar-learn  
+https://github.com/sdutlinux/devlang/tree/master/calc/mycalc_ex  
+https://blog.csdn.net/weixin_30251829/article/details/98910212  
 
 * loucomp  
 Compiler Construction - Principles and Practice, by Kenneth C. Louden,  
