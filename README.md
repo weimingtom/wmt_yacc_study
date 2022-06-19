@@ -174,6 +174,14 @@ https://github.com/setekhid/cfront1
 
 * 《数据结构与程序设计C语言描述》英文版，第12章《Case Study：The Polish Notation》  
 
+* 用Go语言自制解释器  
+https://www.ituring.com.cn/book/2883  
+search baidupan  
+
+* 用Go语言自制编译器  
+https://www.ituring.com.cn/book/2882  
+search baidupan  
+
 ## Debugger  
 * https://github.com/apache/flex-sdk/tree/develop/modules/debugger/src/java/flex/tools/debugger/cli  
 * https://github.com/lancejpollard/flex  
