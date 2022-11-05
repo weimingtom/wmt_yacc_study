@@ -196,3 +196,21 @@ https://github.com/kitasuke/monkey-go
 * https://github.com/zzp-me/_posts/blob/a02badba2aa5a4c3afb7c6829bf36c01e4311662/2009-10-18-basic-interpreter-in-c-1.md  
 * https://blog.csdn.net/zy1049677338/article/details/80668918  
 
+## BAS-INT, TinyBASIC  
+* 以前有本书叫《编程高手箴言》，里面提到一个basic解释器（只能加载文件），  
+有人吐槽过这个代码：《用C语言写解释器（一）——我们的目标》，  
+主要是缺少了一些函数导致无法编译。其实这份代码bas-int是  
+来源于另一篇文章《Building Your Own C Interpreter》，  
+我试过只能用Turbo C 2.0编译运行（当然运行也有问题，后面说），  
+可以修改用mingw编译，但运行不出效果，有人修改过（TinyBASIC.c），  
+可以运行出效果。另外运行的脚本有要求，不能在结尾回车加空行，而且要在文件最后加一个空格  
+* https://www.drdobbs.com/cpp/building-your-own-c-interpreter/184408184  
+* https://github.com/dremwilly/CANBas  
+* (only exe, source not complete) 编程高手箴言_第四章  
+* (support mingw, TinyBASIC.c) https://github.com/amihart/MIPSelBinaries  
+* (only support DOSBOX Turbo C 2.0, TC2) https://github.com/noczero/PASCAL-DAP/blob/master/Tubes/References/HPSource/Source16/C/BAS-INT/BAS-INT.C  
+* 运行的.bas脚本有要求，不能在结尾回车加空行，而且要在文件最后加一个空格  
+* search baidupan, bas-int_v3_必须用DOSBOX_TC2编译才能运行_mingw只能编译运行tinybasic.7z  
+
+## BASIC Computer Games, pdf    
+* https://github.com/treytomes/ecma_basic  
