@@ -212,5 +212,6 @@ https://github.com/kitasuke/monkey-go
 * 运行的.bas脚本有要求，不能在结尾回车加空行，而且要在文件最后加一个空格  
 * search baidupan, bas-int_v3_必须用DOSBOX_TC2编译才能运行_mingw只能编译运行tinybasic.7z  
 
-## BASIC Computer Games, pdf    
+## 101 BASIC Computer Games  
+* https://github.com/coding-horror/basic-computer-games  
 * https://github.com/treytomes/ecma_basic  
