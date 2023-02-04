@@ -215,3 +215,6 @@ https://github.com/kitasuke/monkey-go
 ## 101 BASIC Computer Games  
 * https://github.com/coding-horror/basic-computer-games  
 * https://github.com/treytomes/ecma_basic  
+
+## SysY 语言规范  
+* https://pku-minic.github.io/online-doc/#/misc-app-ref/sysy-spec  
