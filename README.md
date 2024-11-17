@@ -218,3 +218,17 @@ https://github.com/kitasuke/monkey-go
 
 ## SysY 语言规范  
 * https://pku-minic.github.io/online-doc/#/misc-app-ref/sysy-spec  
+
+## bisontest_vc2008.rar  
+* loucomp.zip  
+《编译原理及实践》源码  
+《Compiler Construction Principles and Practice》  
+* http://www.pwv.co.jp/~take/TakeWiki/index.php?C%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E8%A8%AD%E8%A8%88%28yacc%E3%83%BBlex%E3%81%AE%E5%BF%9C%E7%94%A8%29%2F%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AA%E3%82%B9%E3%83%88
+sampleC.7z  
+
+## cii  
+* cii11__.rar
+* cii11.zip
+* cii10-nt.zip
+* cii-lcc-win32.zip
+* ftp://ftp.cs.princeton.edu/pub/packages/cii  
