@@ -4,7 +4,9 @@ My YACC / interpreter study
 ## Refs
 * https://git.oschina.net/sg-first/Lua-interpreter  
 * https://github.com/jhays200/C---Lua-Interpreter.git  
-* https://github.com/clarkok/cua  
+* https://github.com/clarkok/cua
+* 自己动手写编译器、链接器, 自己动手写编译器链接器_源码.rar, vc6
+* https://github.com/weimingtom/Kuuko/blob/master/README2.md?plain=1
 
 ## Documents
 * http://aquamentus.com/flex_bison.html  
